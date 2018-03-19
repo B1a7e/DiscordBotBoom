@@ -1,0 +1,12 @@
+{
+  "name": "JustABot",
+  "description": "Its just a bot",
+  "version": "0.0.0",
+  "main": "JustABot",
+  "scripts": {
+    "start": "node JustABot"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+  }
+}
